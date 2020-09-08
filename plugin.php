@@ -2,7 +2,7 @@
 /*
     Plugin Name: miladoll-disable-wptexturize-autop
     Plugin URI: https://miladoll.jp/
-    Description: `miladoll-disable-wptexturize-autop` disable wptexturize and autop but escape ampasand
+    Description: `miladoll-disable-wptexturize-autop` disable wptexturize and autop but escape ampersand
     Version: 0.1.2
     Author: MILADOLL Decchi
     Author URI: https://miladoll.jp/
